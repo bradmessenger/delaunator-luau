@@ -1,0 +1,4 @@
+std = "luau"
+[lints]
+multiple_statements = "allow"
+incorrect_standard_library_use = "allow"
