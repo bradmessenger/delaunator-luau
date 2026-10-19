@@ -1,5 +1,5 @@
 {
-	"name": "delaunator",
+	"name": "delaunator-luau",
 	"tree": {
 		"$path": "src"
 	}
